@@ -1,16 +1,45 @@
-# React + Vite
+# Zustand Cart – Learning Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created while learning Zustand for state management in React.
 
-Currently, two official plugins are available:
+The main goal of this project is to understand global state management by building a simple shopping cart.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## What I Learned
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Basics of Zustand
+- How global state works in React
+- Sharing state between components
+- Avoiding prop drilling
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Add items to cart  
+- Remove items from cart  
+- Cart state managed using Zustand  
+
+---
+
+## Project Purpose
+
+This project is for learning and practice only.  
+It helped me understand how Zustand works in a real project.
+
+---
+
+## Tech Used
+
+- React
+- Zustand
+- JavaScript
+
+---
+
+## Future Improvements
+
+- Improve cart functionality
+- Add more cart features
+- Learn advanced Zustand concepts
